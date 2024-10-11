@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saeed 
 - 👀 I’m a student at Tanta University
-- 🌱 I’m currently learning embedded system
+- 🌱 I’m currently learning Software testing
 
 <!---
 saeedmohamed74/saeedmohamed74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
